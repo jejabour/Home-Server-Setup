@@ -14,7 +14,7 @@ At the moment, I have a [Buffalo LinkStation](https://www.newegg.com/buffalo-ls7
 
 ## What's Installed
 
-### [Proxmox](https://www.proxmox.com/en/)
+## [Proxmox](https://www.proxmox.com/en/)
 
 This is the OS I installed onto the server. It's a Linux Server OS that can be accessed in a web portal. Proxmox is used to host any number of virtual environments called Containers. Every service I want my home server to use will be hosted in a container to optimize resource usage. The Proxmox server uses port 8006
 My Proxmox guide will be located [here](https://github.com/jejabour/Home-Server-Setup/tree/main/proxmox).
