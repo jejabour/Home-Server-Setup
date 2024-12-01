@@ -1,5 +1,7 @@
 # Proxmox
 
+I decided to install a server environment on my mini pc, and Proxmox is the one I decided to go with. It's been pretty handy and really cool, since it allows you to have a bunch of different servers going simultaneously without using too much in the way of resources, but there have been a few kinks.
+
 ## Helpful Links
 
  - [Download](https://www.proxmox.com/en/downloads)
