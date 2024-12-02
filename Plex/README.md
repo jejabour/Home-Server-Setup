@@ -78,9 +78,9 @@ On the Plex Dashboard, there will be an orange up arrow circle icon in the upper
 A little more complicated, but not much really. In the Plex container, open the terminal and just do an `apt update` `apt upgrade -y`
 
 
-## Acquiring Movies <a name="AcquiringMovies"></a>
+## Acquiring Movies <a name="acquiring-movies"></a>
 
 This can be an entire rabbit hole on it's own. And it is.
 Aside from the obvious seven seas you could sail, I wanted my library to consist of mostly movies I physically own, and unfortunately it is not as easy as just buying a blu ray drive, plugging it into your pc, popping a movie in, and clicking the "Get movie" button.
 
-Because of the rabbit hole-ness of this, I'm going to move this to a separate page [here]
+Because of the rabbit hole-ness of this, I'm going to move this to a separate page [here](https://github.com/jejabour/Home-Server-Setup/blob/main/Plex/Getting%20Movies/README.md)
