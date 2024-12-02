@@ -61,5 +61,7 @@ Now you have your extra chonky movie file, I recommend you go ahead and change t
     - Double check the file path on the bottom is where you want the file output.
     - Finally, you can now hit Add to Queue if you have more than one movie, or just Start Encode. This will take a while too, but once it finishes, you're done! You can open Plex and it should show up, if not, hit Scan Library in the three dots at the top next to your movie library header.
 
+And there you have it. That's how I do the thing.
+
 
 
